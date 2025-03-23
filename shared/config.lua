@@ -1,5 +1,5 @@
 Config = {
-    UseNewESX = false, -- Set to false for ESX Legacy
+    UseNewESX = false, 
     UseOXInventory = false,
     SQLTableName = 'player_houses',
     
